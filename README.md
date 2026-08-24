@@ -637,31 +637,6 @@ Open the local URL displayed by Streamlit in your browser.
 
 ![Automatic Visualization](screenshots/ai-visualization.png)
 
-### Dashboard Overview
-
-_Add screenshot here._
-
-```text
-screenshots/dashboard.png
-```
-
-### Natural-Language Analysis
-
-_Add screenshot here._
-
-```text
-screenshots/ai-analysis.png
-```
-
-### Generated SQL
-
-_Add screenshot here._
-
-```text
-screenshots/generated-sql.png
-```
-
-Screenshots in this repository should come from an actual application run rather than fabricated mockups.
 
 ---
 
